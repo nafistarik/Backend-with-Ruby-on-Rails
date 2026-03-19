@@ -1,4 +1,4 @@
-This is **Part 1 (Basic Ruby for Rails CRUD work)**.
+# 💎 Part 1 (Basic Ruby for Rails CRUD work)**.
 
 ---
 
