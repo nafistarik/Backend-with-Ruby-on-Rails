@@ -1,6 +1,4 @@
-# 💎 Part 1 (Basic Ruby for Rails CRUD work)**.
-
----
+# 💎 Part 1 (Basic Ruby for Rails CRUD work)
 
 # 🌍 The Story: You Join a Rails Backend Team
 
